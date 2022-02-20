@@ -1,0 +1,6 @@
+public class HalloWorld{//creating a public class called HalloWorld
+public static void main(String args[]){//this is the main method
+
+System.out.println("Hallo world");//display the text "Hallo world " on console
+}
+}
