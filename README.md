@@ -1,4 +1,4 @@
-### Hi there 👋 I am software engineer at Code Debuggers and founder of Magical Life Coding.
+This is a simple Java class that shows the syntax of a Java class.
 
 <!--
 **Macharia-John/Macharia-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
