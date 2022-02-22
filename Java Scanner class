@@ -1,0 +1,12 @@
+import Java.util.Scanner;
+class DemoScanner{
+static Scanner scan=new Scanner(System.in);
+public static void main(String args[]){
+System.out.println("Enter Your Name");
+String name=scan.next();
+System.out.println("enter your age");
+int age=scan.nextInt();
+System.out.println("Hallo "+name+" your age is "+age);
+}
+
+}
